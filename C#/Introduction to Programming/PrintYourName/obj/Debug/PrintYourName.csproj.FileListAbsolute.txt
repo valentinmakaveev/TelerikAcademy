@@ -1,0 +1,5 @@
+F:\Introduction to Programming\PrintYourName\bin\Debug\PrintYourName.exe.config
+F:\Introduction to Programming\PrintYourName\bin\Debug\PrintYourName.exe
+F:\Introduction to Programming\PrintYourName\bin\Debug\PrintYourName.pdb
+F:\Introduction to Programming\PrintYourName\obj\Debug\PrintYourName.exe
+F:\Introduction to Programming\PrintYourName\obj\Debug\PrintYourName.pdb

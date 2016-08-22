@@ -1,0 +1,5 @@
+F:\Introduction to Programming\PrintASequence\bin\Debug\PrintASequence.exe.config
+F:\Introduction to Programming\PrintASequence\bin\Debug\PrintASequence.exe
+F:\Introduction to Programming\PrintASequence\bin\Debug\PrintASequence.pdb
+F:\Introduction to Programming\PrintASequence\obj\Debug\PrintASequence.exe
+F:\Introduction to Programming\PrintASequence\obj\Debug\PrintASequence.pdb

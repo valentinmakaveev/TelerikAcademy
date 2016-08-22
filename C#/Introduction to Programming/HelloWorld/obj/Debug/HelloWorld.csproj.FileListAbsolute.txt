@@ -1,0 +1,9 @@
+F:\Introduction to Programming\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\Introduction to Programming\HelloWorld\bin\Debug\HelloWorld.exe
+F:\Introduction to Programming\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\Introduction to Programming\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+F:\Introduction to Programming\HelloWorld\obj\Debug\HelloWorld.exe
+F:\Introduction to Programming\HelloWorld\obj\Debug\HelloWorld.pdb
+F:\TelerikAcademy\C#\Introduction to Programming\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\TelerikAcademy\C#\Introduction to Programming\HelloWorld\obj\Debug\HelloWorld.exe
+F:\TelerikAcademy\C#\Introduction to Programming\HelloWorld\obj\Debug\HelloWorld.pdb
