@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb
