@@ -1,5 +1,0 @@
-F:\Introduction to Programming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
-F:\Introduction to Programming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
-F:\Introduction to Programming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
-F:\Introduction to Programming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
-F:\Introduction to Programming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

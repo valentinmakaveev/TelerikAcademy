@@ -1,9 +1,0 @@
-F:\Introduction to Programming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
-F:\Introduction to Programming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
-F:\Introduction to Programming\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
-F:\Introduction to Programming\AgeAfter10Years\obj\Debug\AgeAfter10Years.csprojResolveAssemblyReference.cache
-F:\Introduction to Programming\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
-F:\Introduction to Programming\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
-F:\TelerikAcademy\C#\Introduction to Programming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
-F:\TelerikAcademy\C#\Introduction to Programming\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
-F:\TelerikAcademy\C#\Introduction to Programming\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
