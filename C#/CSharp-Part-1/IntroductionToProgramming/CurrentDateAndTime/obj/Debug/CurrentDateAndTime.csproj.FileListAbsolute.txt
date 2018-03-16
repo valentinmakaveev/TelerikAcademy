@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

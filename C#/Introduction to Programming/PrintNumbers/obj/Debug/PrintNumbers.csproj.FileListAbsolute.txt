@@ -1,5 +1,0 @@
-F:\Introduction to Programming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
-F:\Introduction to Programming\PrintNumbers\bin\Debug\PrintNumbers.exe
-F:\Introduction to Programming\PrintNumbers\bin\Debug\PrintNumbers.pdb
-F:\Introduction to Programming\PrintNumbers\obj\Debug\PrintNumbers.exe
-F:\Introduction to Programming\PrintNumbers\obj\Debug\PrintNumbers.pdb

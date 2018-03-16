@@ -1,5 +1,0 @@
-F:\Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
-F:\Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
-F:\Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
-F:\Introduction to Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
-F:\Introduction to Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

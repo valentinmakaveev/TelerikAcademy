@@ -1,5 +1,0 @@
-F:\Introduction to Programming\SquareRoot\bin\Debug\SquareRoot.exe.config
-F:\Introduction to Programming\SquareRoot\bin\Debug\SquareRoot.exe
-F:\Introduction to Programming\SquareRoot\bin\Debug\SquareRoot.pdb
-F:\Introduction to Programming\SquareRoot\obj\Debug\SquareRoot.exe
-F:\Introduction to Programming\SquareRoot\obj\Debug\SquareRoot.pdb

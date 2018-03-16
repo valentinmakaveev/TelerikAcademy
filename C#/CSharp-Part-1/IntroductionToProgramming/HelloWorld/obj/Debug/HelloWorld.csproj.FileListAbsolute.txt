@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.pdb

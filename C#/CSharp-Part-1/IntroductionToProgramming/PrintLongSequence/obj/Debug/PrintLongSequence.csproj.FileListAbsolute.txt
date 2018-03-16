@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintASequence\bin\Debug\PrintASequence.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintASequence\bin\Debug\PrintASequence.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintASequence\bin\Debug\PrintASequence.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintASequence\obj\Debug\PrintASequence.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintASequence\obj\Debug\PrintASequence.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\IntroductionToProgramming\IntroductionToProgramming\PrintASequence\obj\Debug\PrintASequence.pdb
