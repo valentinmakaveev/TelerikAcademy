@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.csprojResolveAssemblyReference.cache

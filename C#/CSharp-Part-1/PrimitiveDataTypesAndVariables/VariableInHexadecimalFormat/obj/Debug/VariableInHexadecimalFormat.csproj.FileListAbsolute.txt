@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

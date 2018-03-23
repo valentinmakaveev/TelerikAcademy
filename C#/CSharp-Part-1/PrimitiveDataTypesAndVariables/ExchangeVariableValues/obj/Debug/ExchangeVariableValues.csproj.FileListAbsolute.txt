@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

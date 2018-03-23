@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

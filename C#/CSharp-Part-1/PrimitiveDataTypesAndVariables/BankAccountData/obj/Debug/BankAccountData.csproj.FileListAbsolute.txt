@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\BankAccountData\bin\Debug\BankAccountData.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\BankAccountData\bin\Debug\BankAccountData.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\BankAccountData\bin\Debug\BankAccountData.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\BankAccountData\obj\Debug\BankAccountData.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\BankAccountData\obj\Debug\BankAccountData.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\BankAccountData\obj\Debug\BankAccountData.pdb

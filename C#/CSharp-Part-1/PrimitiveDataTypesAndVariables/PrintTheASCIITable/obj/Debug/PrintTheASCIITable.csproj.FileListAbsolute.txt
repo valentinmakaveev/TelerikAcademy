@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\PrimitiveDataTypesAndVariables\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb
