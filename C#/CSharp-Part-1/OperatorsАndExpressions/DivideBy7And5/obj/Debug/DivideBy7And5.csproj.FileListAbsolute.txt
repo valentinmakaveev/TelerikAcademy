@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.pdb

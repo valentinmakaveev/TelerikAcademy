@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb
