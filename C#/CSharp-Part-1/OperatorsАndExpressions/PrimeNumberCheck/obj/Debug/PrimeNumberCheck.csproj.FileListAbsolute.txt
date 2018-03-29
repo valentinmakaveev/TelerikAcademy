@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

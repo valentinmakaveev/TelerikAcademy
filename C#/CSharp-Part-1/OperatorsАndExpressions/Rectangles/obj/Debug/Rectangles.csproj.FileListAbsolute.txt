@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\Rectangles\bin\Debug\Rectangles.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\Rectangles\bin\Debug\Rectangles.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\Rectangles\bin\Debug\Rectangles.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\Rectangles\obj\Debug\Rectangles.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\Rectangles\obj\Debug\Rectangles.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\Rectangles\obj\Debug\Rectangles.pdb

@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\BitsExchange\bin\Debug\BitsExchange.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\BitsExchange\bin\Debug\BitsExchange.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\BitsExchange\bin\Debug\BitsExchange.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\BitsExchange\obj\Debug\BitsExchange.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\BitsExchange\obj\Debug\BitsExchange.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\BitsExchange\obj\Debug\BitsExchange.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\BitsExchange\obj\Debug\BitsExchange.pdb

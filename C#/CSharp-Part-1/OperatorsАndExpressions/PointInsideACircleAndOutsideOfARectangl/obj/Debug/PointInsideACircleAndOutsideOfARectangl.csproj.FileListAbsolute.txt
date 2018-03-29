@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PointInsideACircleAndOutsideOfARectangl\bin\Debug\PointInsideACircleAndOutsideOfARectangl.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PointInsideACircleAndOutsideOfARectangl\bin\Debug\PointInsideACircleAndOutsideOfARectangl.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PointInsideACircleAndOutsideOfARectangl\bin\Debug\PointInsideACircleAndOutsideOfARectangl.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PointInsideACircleAndOutsideOfARectangl\obj\Debug\PointInsideACircleAndOutsideOfARectangl.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PointInsideACircleAndOutsideOfARectangl\obj\Debug\PointInsideACircleAndOutsideOfARectangl.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\PointInsideACircleAndOutsideOfARectangl\obj\Debug\PointInsideACircleAndOutsideOfARectangl.pdb

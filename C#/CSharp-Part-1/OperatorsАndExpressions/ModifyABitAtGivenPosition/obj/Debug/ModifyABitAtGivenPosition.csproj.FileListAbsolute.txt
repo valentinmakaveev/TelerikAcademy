@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\OperatorsАndExpressions\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.pdb
