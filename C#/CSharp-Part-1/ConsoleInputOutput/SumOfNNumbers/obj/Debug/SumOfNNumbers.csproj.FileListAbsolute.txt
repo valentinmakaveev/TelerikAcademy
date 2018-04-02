@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOfNNumbers\bin\Debug\SumOfNNumbers.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOfNNumbers\obj\Debug\SumOfNNumbers.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOfNNumbers\obj\Debug\SumOfNNumbers.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOfNNumbers\obj\Debug\SumOfNNumbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOfNNumbers\obj\Debug\SumOfNNumbers.pdb

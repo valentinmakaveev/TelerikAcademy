@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb
