@@ -28,7 +28,7 @@ namespace NumbersInIntervalDividableByGivenNumber
 
             Console.WriteLine("Enter positive integer number b: ");
             int b = int.Parse(Console.ReadLine());
-
+            int counter = 0;
             int division = 5;
             string result = "";
 
@@ -37,10 +37,21 @@ namespace NumbersInIntervalDividableByGivenNumber
                 if (i % division == 0)
                 {
                     result += i + ", ";
+                    counter++;
                 }
             }
-            result = result.Remove(result.Length - 2);
-            Console.WriteLine(result); 
+            //remove last space and comma from the result
+            if (counter > 0)
+            {
+                result = result.Remove(result.Length - 2);
+
+                Console.WriteLine(result);
+
+            }
+            else
+            {
+                Console.WriteLine("no existing numbers");
+            }
         }
     }
 }

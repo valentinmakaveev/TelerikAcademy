@@ -1,7 +1,0 @@
-E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\Circle PerimeterndArea\bin\Debug\Circle PerimeterndArea.exe.config
-E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\Circle PerimeterndArea\bin\Debug\Circle PerimeterndArea.exe
-E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\Circle PerimeterndArea\bin\Debug\Circle PerimeterndArea.pdb
-E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\Circle PerimeterndArea\obj\Debug\CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
-E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\Circle PerimeterndArea\obj\Debug\CirclePerimeterAndArea.csproj.CoreCompileInputs.cache
-E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\Circle PerimeterndArea\obj\Debug\Circle PerimeterndArea.exe
-E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\Circle PerimeterndArea\obj\Debug\Circle PerimeterndArea.pdb
