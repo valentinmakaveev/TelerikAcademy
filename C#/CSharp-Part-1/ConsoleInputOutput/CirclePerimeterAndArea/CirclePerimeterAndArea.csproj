@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{32C70279-D221-4C6D-9A3F-6D983A97E7C2}</ProjectGuid>
+    <ProjectGuid>{1E04C81E-5FD6-45DE-8F87-0DBC4155CBC3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Circle_PerimeterndArea</RootNamespace>
-    <AssemblyName>Circle PerimeterndArea</AssemblyName>
+    <RootNamespace>CirclePerimeterAndArea</RootNamespace>
+    <AssemblyName>CirclePerimeterAndArea</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CirclePerimeterAndArea.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
