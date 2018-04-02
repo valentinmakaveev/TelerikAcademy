@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.pdb

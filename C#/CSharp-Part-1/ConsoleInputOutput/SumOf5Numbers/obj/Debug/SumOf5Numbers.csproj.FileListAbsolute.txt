@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb

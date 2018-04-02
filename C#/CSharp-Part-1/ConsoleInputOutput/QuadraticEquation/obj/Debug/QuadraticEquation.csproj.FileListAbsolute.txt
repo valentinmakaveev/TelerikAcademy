@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

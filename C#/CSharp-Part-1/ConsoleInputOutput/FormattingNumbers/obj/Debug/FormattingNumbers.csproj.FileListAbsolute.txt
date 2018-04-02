@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.pdb
