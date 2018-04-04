@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\NumberAsWords\bin\Debug\NumberAsWords.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\NumberAsWords\bin\Debug\NumberAsWords.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\NumberAsWords\bin\Debug\NumberAsWords.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\NumberAsWords\obj\Debug\NumberAsWords.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\NumberAsWords\obj\Debug\NumberAsWords.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\NumberAsWords\obj\Debug\NumberAsWords.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\NumberAsWords\obj\Debug\NumberAsWords.pdb

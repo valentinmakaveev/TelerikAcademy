@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.pdb

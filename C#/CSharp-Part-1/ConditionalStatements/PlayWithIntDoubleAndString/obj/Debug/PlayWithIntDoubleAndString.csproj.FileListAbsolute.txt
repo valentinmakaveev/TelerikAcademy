@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.pdb

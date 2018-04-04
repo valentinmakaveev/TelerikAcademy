@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\Sort3NumbersWithNestedIfs\obj\Debug\Sort3NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\Sort3NumbersWithNestedIfs\obj\Debug\Sort3NumbersWithNestedIfs.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\Sort3NumbersWithNestedIfs\obj\Debug\Sort3NumbersWithNestedIfs.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\Sort3NumbersWithNestedIfs\obj\Debug\Sort3NumbersWithNestedIfs.pdb
