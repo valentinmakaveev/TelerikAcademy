@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.pdb

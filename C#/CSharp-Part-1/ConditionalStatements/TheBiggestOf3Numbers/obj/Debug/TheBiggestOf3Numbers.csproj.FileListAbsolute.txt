@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConditionalStatements\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.pdb
