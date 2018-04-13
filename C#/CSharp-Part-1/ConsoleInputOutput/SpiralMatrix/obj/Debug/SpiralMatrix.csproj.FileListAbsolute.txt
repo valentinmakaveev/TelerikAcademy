@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SpiralMatrix\obj\Debug\SpiralMatrix.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SpiralMatrix\obj\Debug\SpiralMatrix.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

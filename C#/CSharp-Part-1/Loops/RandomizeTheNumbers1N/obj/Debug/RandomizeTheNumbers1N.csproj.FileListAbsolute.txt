@@ -1,0 +1,6 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\RandomizeTheNumbers1N\bin\Debug\RandomizeTheNumbers1N.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\RandomizeTheNumbers1N\bin\Debug\RandomizeTheNumbers1N.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\RandomizeTheNumbers1N\bin\Debug\RandomizeTheNumbers1N.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\RandomizeTheNumbers1N\obj\Debug\RandomizeTheNumbers1N.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\RandomizeTheNumbers1N\obj\Debug\RandomizeTheNumbers1N.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\RandomizeTheNumbers1N\obj\Debug\RandomizeTheNumbers1N.pdb

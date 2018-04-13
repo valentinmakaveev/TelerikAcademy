@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.pdb

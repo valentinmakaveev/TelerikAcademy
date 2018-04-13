@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateExpression\bin\Debug\CalculateExpression.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateExpression\bin\Debug\CalculateExpression.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateExpression\bin\Debug\CalculateExpression.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateExpression\obj\Debug\CalculateExpression.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateExpression\obj\Debug\CalculateExpression.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateExpression\obj\Debug\CalculateExpression.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateExpression\obj\Debug\CalculateExpression.pdb

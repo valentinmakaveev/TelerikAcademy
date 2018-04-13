@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactNDivFactK\bin\Debug\CalculateFactNDivFactK.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactNDivFactK\bin\Debug\CalculateFactNDivFactK.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactNDivFactK\bin\Debug\CalculateFactNDivFactK.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactNDivFactK\obj\Debug\CalculateFactNDivFactK.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactNDivFactK\obj\Debug\CalculateFactNDivFactK.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactNDivFactK\obj\Debug\CalculateFactNDivFactK.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactNDivFactK\obj\Debug\CalculateFactNDivFactK.pdb
