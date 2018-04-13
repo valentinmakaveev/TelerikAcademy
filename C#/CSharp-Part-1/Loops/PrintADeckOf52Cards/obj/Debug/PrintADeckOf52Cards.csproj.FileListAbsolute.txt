@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\PrintADeckOf52Cards\bin\Debug\PrintADeckOf52Cards.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\PrintADeckOf52Cards\bin\Debug\PrintADeckOf52Cards.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\PrintADeckOf52Cards\bin\Debug\PrintADeckOf52Cards.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\PrintADeckOf52Cards\obj\Debug\PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\PrintADeckOf52Cards\obj\Debug\PrintADeckOf52Cards.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\PrintADeckOf52Cards\obj\Debug\PrintADeckOf52Cards.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\PrintADeckOf52Cards\obj\Debug\PrintADeckOf52Cards.pdb

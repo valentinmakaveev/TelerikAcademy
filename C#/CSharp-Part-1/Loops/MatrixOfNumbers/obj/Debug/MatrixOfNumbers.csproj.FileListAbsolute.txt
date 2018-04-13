@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

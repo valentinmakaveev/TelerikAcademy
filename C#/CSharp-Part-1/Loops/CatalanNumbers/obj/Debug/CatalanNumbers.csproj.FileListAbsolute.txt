@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.pdb

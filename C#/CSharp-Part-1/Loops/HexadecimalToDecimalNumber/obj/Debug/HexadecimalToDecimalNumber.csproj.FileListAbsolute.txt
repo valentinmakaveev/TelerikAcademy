@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\HexadecimalToDecimalNumber\bin\Debug\HexadecimalToDecimalNumber.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\HexadecimalToDecimalNumber\bin\Debug\HexadecimalToDecimalNumber.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\HexadecimalToDecimalNumber\bin\Debug\HexadecimalToDecimalNumber.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\HexadecimalToDecimalNumber\obj\Debug\HexadecimalToDecimalNumber.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\HexadecimalToDecimalNumber\obj\Debug\HexadecimalToDecimalNumber.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\HexadecimalToDecimalNumber\obj\Debug\HexadecimalToDecimalNumber.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\HexadecimalToDecimalNumber\obj\Debug\HexadecimalToDecimalNumber.pdb

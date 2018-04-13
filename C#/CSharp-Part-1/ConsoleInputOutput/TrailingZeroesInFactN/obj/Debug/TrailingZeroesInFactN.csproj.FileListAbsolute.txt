@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\TrailingZeroesInFactN\bin\Debug\TrailingZeroesInFactN.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\TrailingZeroesInFactN\bin\Debug\TrailingZeroesInFactN.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\TrailingZeroesInFactN\bin\Debug\TrailingZeroesInFactN.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\TrailingZeroesInFactN\obj\Debug\TrailingZeroesInFactN.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\TrailingZeroesInFactN\obj\Debug\TrailingZeroesInFactN.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\TrailingZeroesInFactN\obj\Debug\TrailingZeroesInFactN.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\ConsoleInputOutput\TrailingZeroesInFactN\obj\Debug\TrailingZeroesInFactN.pdb

@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb

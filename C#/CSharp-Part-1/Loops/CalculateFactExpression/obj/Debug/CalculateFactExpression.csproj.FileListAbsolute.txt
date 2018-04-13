@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactExpression\bin\Debug\CalculateFactExpression.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactExpression\bin\Debug\CalculateFactExpression.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactExpression\bin\Debug\CalculateFactExpression.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactExpression\obj\Debug\CalculateFactExpression.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactExpression\obj\Debug\CalculateFactExpression.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactExpression\obj\Debug\CalculateFactExpression.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-1\Loops\CalculateFactExpression\obj\Debug\CalculateFactExpression.pdb
