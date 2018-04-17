@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\AllocateArray\bin\Debug\AllocateArray.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\AllocateArray\bin\Debug\AllocateArray.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\AllocateArray\bin\Debug\AllocateArray.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\AllocateArray\obj\Debug\AllocateArray.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\AllocateArray\obj\Debug\AllocateArray.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\AllocateArray\obj\Debug\AllocateArray.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\AllocateArray\obj\Debug\AllocateArray.pdb

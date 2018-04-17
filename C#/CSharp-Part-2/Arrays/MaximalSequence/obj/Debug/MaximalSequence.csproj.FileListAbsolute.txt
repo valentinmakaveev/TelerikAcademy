@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\MaximalSequence\bin\Debug\MaximalSequence.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\MaximalSequence\obj\Debug\MaximalSequence.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\MaximalSequence\obj\Debug\MaximalSequence.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb

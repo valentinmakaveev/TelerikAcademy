@@ -1,0 +1,7 @@
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\CompareArrays\bin\Debug\CompareArrays.exe.config
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\CompareArrays\bin\Debug\CompareArrays.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\CompareArrays\bin\Debug\CompareArrays.pdb
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\CompareArrays\obj\Debug\CompareArrays.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\CompareArrays\obj\Debug\CompareArrays.csproj.CoreCompileInputs.cache
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\CompareArrays\obj\Debug\CompareArrays.exe
+E:\TelerikAcademy\TelerikAcademy\C#\CSharp-Part-2\Arrays\CompareArrays\obj\Debug\CompareArrays.pdb
